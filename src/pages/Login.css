@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(C:\Users\Saikumar\Downloads\web_chat_app\frontend\src\assets\register.png);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
